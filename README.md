@@ -1,5 +1,8 @@
 # s0-smartmeter
 
-Using a Raspberry Zero W to log the output of a $S_0$ interface of a power meter. The pin header has to be soldered to the Zero and a IR receiver diode is used.
+This repo shows how to using 
+- a Raspberry Zero W
+- a ESP8266
+both used with (the same) IR sensor to log the output of a $S_0$ interface of a power meter.
 
 Notebook is in German but will be edited.
